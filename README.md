@@ -35,13 +35,13 @@ The system also includes multiple reports and performance analytics, such as ide
 
 ## 🧩 Project Structure
 
-📁 ticket-manager/
-├── 📄 main.py # Main program (menu and control flow)
-├── 📄 db.py # Data storage, read/write functions
-├── 📄 manager.py # Analytics and report generation
-├── 📄 test.txt # Example data file
-├── 📄 .gitignore
-└── 📄 README.md
+ticket-manager/
+├── main.py # Main program (menu and control flow)
+├── db.py # Data storage, read/write functions
+├── manager.py # Analytics and report generation
+├── test.txt # Example data file
+├── .gitignore
+└── README.md
 
 
 ---
